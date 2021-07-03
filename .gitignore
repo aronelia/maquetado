@@ -1,0 +1,9 @@
+._*
+.vscode
+package-lock.json
+node_modules/
+vendor/
+/theme.js
+/theme.js.map
+/style.css
+/style.css.map

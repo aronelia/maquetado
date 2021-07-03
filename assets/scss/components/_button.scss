@@ -1,0 +1,17 @@
+.button {
+    background: $orange;
+    color: white;
+    text-transform: uppercase;
+    font-weight: 600;
+    display: block;
+    padding: 1rem;
+    margin: 1rem 0;
+    text-align: center;
+
+    &--outline {
+        //Agregar las variantes de estilos en modificadores
+        background: transparent;
+        border: 1px solid $orange;
+        color: $orange;
+    }
+}
